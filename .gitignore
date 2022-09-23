@@ -1,0 +1,10 @@
+*.o
+*.cmake
+*.make
+Makefile
+*.json
+*.tcl
+*/SFML/doc
+CMakeFiles/
+Testing/
+.vscode
